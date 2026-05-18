@@ -11,6 +11,7 @@ publishing binary builds for Windows, macOS, and Linux at
 | Package | Source | Branch |
 |---|---|---|
 | [`picMort`](https://github.com/max578/picMort) | `max578/picMort` | `main` |
+| [`masque`](https://github.com/max578/masque) | `max578/masque` | `main` |
 
 ## Installation (for end users)
 

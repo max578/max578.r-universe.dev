@@ -3,5 +3,10 @@
     "package": "picMort",
     "url": "https://github.com/max578/picMort",
     "branch": "main"
+  },
+  {
+    "package": "masque",
+    "url": "https://github.com/max578/masque",
+    "branch": "main"
   }
 ]
