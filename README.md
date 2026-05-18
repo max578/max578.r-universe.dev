@@ -12,6 +12,9 @@ publishing binary builds for Windows, macOS, and Linux at
 |---|---|---|
 | [`picMort`](https://github.com/max578/picMort) | `max578/picMort` | `main` |
 | [`masque`](https://github.com/max578/masque) | `max578/masque` | `main` |
+| [`PESTO`](https://github.com/max578/PESTO) | `max578/PESTO` | `main` |
+| [`kernR`](https://github.com/max578/kernR) | `max578/kernR` | `main` |
+| [`proxymix`](https://github.com/max578/proxymix) | `max578/proxymix` | `main` |
 
 ## Installation (for end users)
 

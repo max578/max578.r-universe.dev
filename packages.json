@@ -8,5 +8,20 @@
     "package": "masque",
     "url": "https://github.com/max578/masque",
     "branch": "main"
+  },
+  {
+    "package": "PESTO",
+    "url": "https://github.com/max578/PESTO",
+    "branch": "main"
+  },
+  {
+    "package": "kernR",
+    "url": "https://github.com/max578/kernR",
+    "branch": "main"
+  },
+  {
+    "package": "proxymix",
+    "url": "https://github.com/max578/proxymix",
+    "branch": "main"
   }
 ]
