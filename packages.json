@@ -23,5 +23,20 @@
     "package": "proxymix",
     "url": "https://github.com/max578/proxymix",
     "branch": "main"
+  },
+  {
+    "package": "decideR",
+    "url": "https://github.com/max578/decideR",
+    "branch": "main"
+  },
+  {
+    "package": "gpfield",
+    "url": "https://github.com/max578/gpfield",
+    "branch": "main"
+  },
+  {
+    "package": "grainPlan",
+    "url": "https://github.com/max578/grainPlan",
+    "branch": "main"
   }
 ]
