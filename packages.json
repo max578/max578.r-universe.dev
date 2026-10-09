@@ -43,5 +43,15 @@
     "package": "orchestraManifest",
     "url": "https://github.com/max578/orchestraManifest",
     "branch": "main"
+  },
+  {
+    "package": "bacipair",
+    "url": "https://github.com/max578/bacipair",
+    "branch": "main"
+  },
+  {
+    "package": "conductoR",
+    "url": "https://github.com/max578/conductoR",
+    "branch": "main"
   }
 ]
