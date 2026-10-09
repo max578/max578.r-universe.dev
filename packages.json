@@ -38,5 +38,10 @@
     "package": "grainPlan",
     "url": "https://github.com/max578/grainPlan",
     "branch": "main"
+  },
+  {
+    "package": "orchestraManifest",
+    "url": "https://github.com/max578/orchestraManifest",
+    "branch": "main"
   }
 ]
