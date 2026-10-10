@@ -53,5 +53,40 @@
     "package": "conductoR",
     "url": "https://github.com/max578/conductoR",
     "branch": "main"
+  },
+  {
+    "package": "koine",
+    "url": "https://github.com/max578/koine",
+    "branch": "main"
+  },
+  {
+    "package": "optimix",
+    "url": "https://github.com/max578/optimix",
+    "branch": "main"
+  },
+  {
+    "package": "cdzoo",
+    "url": "https://github.com/max578/cdzoo",
+    "branch": "main"
+  },
+  {
+    "package": "survkit",
+    "url": "https://github.com/max578/survkit",
+    "branch": "main"
+  },
+  {
+    "package": "terroir",
+    "url": "https://github.com/max578/terroir",
+    "branch": "main"
+  },
+  {
+    "package": "apsimR",
+    "url": "https://github.com/max578/apsimR",
+    "branch": "main"
+  },
+  {
+    "package": "kalmix",
+    "url": "https://github.com/max578/kalmix",
+    "branch": "main"
   }
 ]
