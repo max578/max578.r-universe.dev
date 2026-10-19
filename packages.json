@@ -88,5 +88,10 @@
     "package": "kalmix",
     "url": "https://github.com/max578/kalmix",
     "branch": "main"
+  },
+  {
+    "package": "janusplot",
+    "url": "https://github.com/max578/janusplot",
+    "branch": "main"
   }
 ]
